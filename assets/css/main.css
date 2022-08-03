@@ -1,0 +1,24 @@
+.h-full {
+	min-height: 100%;
+}
+.h-screen {
+	min-height: 100vh;
+}
+.auth-form {
+	margin-top: 75px;
+}
+p {
+	margin: 0 !important;
+}
+.page-chevron:first-child {
+	margin-right: 0.4rem;
+}
+.page-chevron:last-child {
+	margin-left: 0.4rem;
+}
+.page-item:first-child {
+	margin-right: 0 !important;
+}
+.page-item:last-child {
+	margin-left: 0 !important;
+}
